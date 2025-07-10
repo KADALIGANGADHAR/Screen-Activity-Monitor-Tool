@@ -67,7 +67,7 @@ This tool takes automated screenshots of the desktop every 10 seconds using Pyth
 <img width="1592" height="839" alt="kali-linux-2024 4-vmware-amd64-2025-07-10-19-58-17" src="https://github.com/user-attachments/assets/6cc34aa6-8920-4378-81ae-f75abad2cf71" />
 
 ### *You must activate the virtual environment every time you want to run or develop your script.*
-### *If you close your terminal, repeat steps 1 and 3 before running your script again.*
+### *If you close your terminal, repeat this cd  ```~/screen_monitor``` and  ``` source venv/bin/activate``` before running your script again.*
 
 
 
